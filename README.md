@@ -18,11 +18,6 @@ In this assignment i have to create a smart contract whose working is same as th
 
 To create this smart contract i have first mapped a address to store an integer and then create two function one will add the amount to provided address and other to withdrawl amount from the given address.   
 
-* [ETH + AVAX PROOF Module 1 (.sol)](https://github.com/21bcs10985/Matacrafts/blob/main/FunctionAndError.sol)
-
-In this Project i have to write a contract which has the use of revert(),require() and assert() statement. So i have created a contract name FunctionAndError and inside this i have created a function which takes the input from the user like address and amount and then check for the ownership using require() statement an then check for the available balance is greater then the inputed amount using revert() statement and if true then complete the transection.
-
-At the end i have created a checkAssert function which has one assert() statement to check for the internal errors. 
 ## Getting Started
 ### Installing
 There is no need to install any software, you can compile and run the code by visiting the given websites form your browser only.
@@ -37,7 +32,6 @@ I have also provided my Loom video so that you can take the reference:
 
 * [ETH_Beginners Loom Link](https://www.loom.com/share/460bd845c968440cae0bd4b77f3ac448?sid=1b132223-9f17-4469-b577-aa924e1543df)
   
-* [ETH + AVAX PROOF Module 1](https://www.loom.com/share/5b3024db5e0b4ac2bf1821ab5d678be6?sid=6a847ee9-a09f-4487-8a1e-b2c40f69f78d)
 
  
 
